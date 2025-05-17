@@ -12,7 +12,7 @@ import org.json.JSONObject
 import java.net.URL
 import javax.net.ssl.HttpsURLConnection
 
-private val botToken = "7728309315:AAHuCiq8GMBJ8NQC_u2ooZUT-TzJlbhLhg0"
+private val botToken = "TelekgramBotToken**********************"
 
 class MessageViewModel : ViewModel() {
     private val handler = Handler(Looper.getMainLooper())
